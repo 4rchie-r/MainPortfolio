@@ -1,0 +1,14 @@
+.projects {
+    padding: 2rem;
+}
+
+.project-list {
+    display: flex;
+    gap: 2rem;
+}
+
+.project {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border: 1px solid #ddd;
+}
